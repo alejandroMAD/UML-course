@@ -4,10 +4,16 @@
 
 ## Use Case
 
-![CodePen logo](https://github.com/alejandroMAD/Digital-Literacy-Capstone-Project/blob/master/logo.png)
+![Use Case diagram](https://github.com/alejandroMAD/UML-marketing-system/blob/main/uc%20Marketing%20Automation%20System.jpeg)
 
 ## Activity
 
+![Activity diagram](https://github.com/alejandroMAD/UML-marketing-system/blob/main/act%20Marketing%20Automation%20System.jpeg)
+
 ## Packages
 
+![Package diagram](https://github.com/alejandroMAD/UML-marketing-system/blob/main/pkg%20Marketing%20Automation%20System.jpeg)
+
 ## Deployment
+
+![Deployment diagram](https://github.com/alejandroMAD/UML-marketing-system/blob/main/dep%20Marketing%20Automation%20System.jpeg)
