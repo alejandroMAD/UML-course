@@ -4,16 +4,29 @@
 
 ## Use Case
 
-![Use Case diagram](https://github.com/alejandroMAD/UML-marketing-system/blob/main/uc%20Marketing%20Automation%20System.jpeg)
+![Use Case diagram](https://github.com/alejandroMAD/UML-marketing-system/blob/main/uc_Marketing_Automation_System.jpeg)
 
 ## Activity
 
-![Activity diagram](https://github.com/alejandroMAD/UML-marketing-system/blob/main/act%20Marketing%20Automation%20System.jpeg)
+![Activity diagram](https://github.com/alejandroMAD/UML-marketing-system/blob/main/act_Marketing_Automation_System.jpeg)
 
 ## Packages
 
-![Package diagram](https://github.com/alejandroMAD/UML-marketing-system/blob/main/pkg%20Marketing%20Automation%20System.jpeg)
+![Package diagram](https://github.com/alejandroMAD/UML-marketing-system/blob/main/pkg_Marketing_Automation_System.jpeg)
 
 ## Deployment
 
-![Deployment diagram](https://github.com/alejandroMAD/UML-marketing-system/blob/main/dep%20Marketing%20Automation%20System.jpeg)
+![Deployment diagram](https://github.com/alejandroMAD/UML-marketing-system/blob/main/dep_Marketing_Automation_System.jpeg)
+
+
+## State Machine
+
+![Deployment diagram](https://github.com/alejandroMAD/UML-marketing-system/blob/main/stm_Marketing_Automation_System.jpeg)
+
+## Class
+
+![Deployment diagram](https://github.com/alejandroMAD/UML-marketing-system/blob/main/class_Marketing_Automation_System.jpeg)
+
+***
+
+Diagrams created in Lucidchart, **[www.lucidchart.com](www.lucidchart.com)**
